@@ -1,6 +1,6 @@
 -- Texas Deathrow Data Exploration
 -- Executed Inmates from 1976 to 2018
--- Aggregate Functions, Converting Data Types, Filter NULLs, Operators Creating Views
+-- Aggregate Functions, Converting Data Types, Filter NULLs, Operators, Creating Views
 
 -- creating the table
 
