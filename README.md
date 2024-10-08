@@ -2,7 +2,9 @@
 
 553 executions. 42 years.
 
-This project dives into data on executions carried out in the state of Texas from 1976 to 2018. 
+This project dives into data on executions carried out in the state of Texas from 1976 to 2018.
+
+The goal being to learn about this fascinating dataset, uncover potential trends, and to satisfy curiosity.
 
 
 
