@@ -11,12 +11,15 @@ The goal being to learn about this fascinating dataset, uncover potential trends
 Hypothesis: Most of the people on deathrow did not finish high school. The average education level will be somewhere between the 9th and 11th grade.
 
 2. What is the average age of execution?
+
 Hypothesis: Deathrow inmates likely commited their crime(s) as a teenager or young adult and subsequently spent a decade on average on the run or oon deathrow.
 
 3. Where did these inmates come from? 
+
 Hypothesis: 90 percent are from Texas.
 
 5. What are the racial demographics amongst inmates?
+
 Hypothesis: Minorities will make up a disproportionate percentage of executions.
 
 
